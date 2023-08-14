@@ -2,14 +2,25 @@
 table,td {
     border-collapse: collapse;
     border: 1px solid black;
-/*     border-spacing: 1px; */
+    border-spacing: 1px;
 	font-family:Inter;
+	width:100vw;
   }
   td,th {
-    padding: 5px 15px;
+/*     padding: 5px 50px; */
   }
-td{
+.left{
 	 text-align: left;
 }   
-	
+.center{
+	text-align:center;
+}
+.right{
+	text-align:right;
+}
+h3{
+	margin-bottom:2px;
+	text-align:center;
+}
+
 
