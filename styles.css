@@ -22,5 +22,14 @@ h3{
 	margin-bottom:2px;
 	text-align:center;
 }
-
+.green{
+	background:green;
+}
+.blue{
+	background:blue;
+}
+img{
+	align-item:center;
+	text-align:center;
+}
 
